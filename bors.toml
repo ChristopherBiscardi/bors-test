@@ -1,1 +1,2 @@
 status = ["Bors"]
+use_codeowners = true
